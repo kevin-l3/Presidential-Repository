@@ -1,0 +1,89 @@
+James_Madison_1813-05-25T13_03_58-04_56_May_25,_1813__Message_on_the_Special_Congressional_Session_--_State_of_War_and_Diplomacy.json
+President: James Madison
+Date: 1813-05-25T13:03:58-04:56
+Speech Length (Chars): 25635
+ - people:    Count: 6     Percentage: 0.02%
+==========================================
+ - government: Count: 2     Percentage: 0.01%
+==========================================
+ - united:    Count: 27    Percentage: 0.11%
+==========================================
+ - our:       Count: 26    Percentage: 0.10%
+==========================================
+Total word count: 4302
+Average Word Length is: 4.737249544626594
+
+James_Madison_1809-11-29T13_03_58-04_56_November_29,_1809__First_Annual_Message.json
+President: James Madison
+Date: 1809-11-29T13:03:58-04:56
+Speech Length (Chars): 22856
+ - people:    Count: 0     Percentage: 0.00%
+==========================================
+ - government: Count: 12    Percentage: 0.05%
+==========================================
+ - united:    Count: 20    Percentage: 0.09%
+==========================================
+ - our:       Count: 60    Percentage: 0.26%
+==========================================
+Total word count: 3800
+Average Word Length is: 4.895330535152151
+
+Abraham_Lincoln_1862-12-01T13_03_58-04_56_December_1,_1862__Second_Annual_Message.json
+President: Abraham Lincoln
+Date: 1862-12-01T13:03:58-04:56
+Speech Length (Chars): 100815
+ - people:    Count: 68    Percentage: 0.07%
+==========================================
+ - government: Count: 16    Percentage: 0.02%
+==========================================
+ - united:    Count: 58    Percentage: 0.06%
+==========================================
+ - our:       Count: 92    Percentage: 0.09%
+==========================================
+Total word count: 16929
+Average Word Length is: 4.667566325944642
+
+Grover_Cleveland_1895-12-17T16_24_00-05_00_December_17,_1895__Message_Regarding_Venezuelan-British_Dispute.json
+President: Grover Cleveland
+Date: 1895-12-17T16:24:00-05:00
+Speech Length (Chars): 19922
+ - people:    Count: 4     Percentage: 0.02%
+==========================================
+ - government: Count: 28    Percentage: 0.14%
+==========================================
+ - united:    Count: 16    Percentage: 0.08%
+==========================================
+ - our:       Count: 24    Percentage: 0.12%
+==========================================
+Total word count: 3253
+Average Word Length is: 4.932865425694232
+
+Harry_S._Truman_1953-01-15T13_00_00-05_00_January_15,_1953__Farewell_Address.json
+President: Harry S. Truman
+Date: 1953-01-15T13:00:00-05:00
+Speech Length (Chars): 42493
+ - people:    Count: 41    Percentage: 0.10%
+==========================================
+ - government: Count: 2     Percentage: 0.00%
+==========================================
+ - united:    Count: 18    Percentage: 0.04%
+==========================================
+ - our:       Count: 70    Percentage: 0.16%
+==========================================
+Total word count: 7930
+Average Word Length is: 4.120154555652499
+
+Jimmy_Carter_1980-10-28T13_00_00-05_00_October_28,_1980__Debate_with_Ronald_Reagan.json
+President: Jimmy Carter
+Date: 1980-10-28T13:00:00-05:00
+Speech Length (Chars): 181808
+ - people:    Count: 110   Percentage: 0.06%
+==========================================
+ - government: Count: 94    Percentage: 0.05%
+==========================================
+ - united:    Count: 32    Percentage: 0.02%
+==========================================
+ - our:       Count: 174   Percentage: 0.10%
+==========================================
+Total word count: 33710
+Average Word Length is: 4.20155836518671
